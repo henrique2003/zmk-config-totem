@@ -33,7 +33,7 @@
                 td_ctrl: td_ctrl {
                         compatible = "zmk,behavior-tap-dance";
                         #binding-cells = <0>;
-                        tapping-term-ms = <200>;
+                        tapping-term-ms = <400>;
                         bindings = <&kp LCTRL>, <&mo ADJ>;
                 };
         };
