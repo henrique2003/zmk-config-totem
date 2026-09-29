@@ -34,7 +34,7 @@
                         compatible = "zmk,behavior-tap-dance";
                         #binding-cells = <0>;
                         tapping-term-ms = <200>;
-                        bindings = <&kp LCTRL>, <&lt ADJ LCTRL>;
+                        bindings = <&kp LCTRL>, <&mo ADJ>;
                 };
         };
 
