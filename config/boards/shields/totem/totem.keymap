@@ -37,7 +37,7 @@
         bindings = <&kp ESC>;
         };
         combo_ctrl_adj {
-                timeout-ms = <50>;
+                timeout-ms = <250>;
                 key-positions = <9 32>;
                 layers = <BASE>;
                 slow-release;
